@@ -1,7 +1,7 @@
 # thread_pool
 golang 客户端grpc 线程池实现
 
-##future
+## future
 - 动态增加、减少线程池的数量。
 - 失效线程自动回收
 - 动态监控
